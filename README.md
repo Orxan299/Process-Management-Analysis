@@ -14,4 +14,4 @@ Bu dashboard sənaye proseslərinin səmərəliliyini izləmək və əməliyyat 
 - **KPI Cards:** Əsas göstəricilərin real vaxt rejimində izlənilməsi.
 
 ## 📸 Dashboard Görüntüsü
-![Process Management Dashboard](process_dashboard.png)
+![Process Management Dashboard](Screenshot 2026-02-18 171017.png)
