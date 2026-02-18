@@ -17,4 +17,5 @@ Bu dashboard sənaye proseslərinin səmərəliliyini izləmək və əməliyyat 
 
 <p align="center">
   <img src="Screenshot 2026-02-18 171017.png" width="48%" />
+  <img src="Screenshot 2026-02-18 171017.png" width="48%" />
 </p>
